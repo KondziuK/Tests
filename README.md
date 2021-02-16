@@ -1,2 +1,1 @@
-# Tests
-Repo for git & LateX learning purpose
+Testing Git & Latex
