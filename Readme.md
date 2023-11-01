@@ -1,1 +1,1 @@
-Repozytorium do testów Latexa & Gita
+Repozytorium do testów
